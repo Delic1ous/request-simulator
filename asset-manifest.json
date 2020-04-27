@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/request-simulator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/request-simulator/static/js/main.af123320.chunk.js",
+    "main.js.map": "/request-simulator/static/js/main.af123320.chunk.js.map",
+    "runtime-main.js": "/request-simulator/static/js/runtime-main.6c581923.js",
+    "runtime-main.js.map": "/request-simulator/static/js/runtime-main.6c581923.js.map",
+    "static/js/2.174e4a69.chunk.js": "/request-simulator/static/js/2.174e4a69.chunk.js",
+    "static/js/2.174e4a69.chunk.js.map": "/request-simulator/static/js/2.174e4a69.chunk.js.map",
+    "index.html": "/request-simulator/index.html",
+    "precache-manifest.be031a5254ccdb2aa0a3cc14a918befc.js": "/request-simulator/precache-manifest.be031a5254ccdb2aa0a3cc14a918befc.js",
+    "service-worker.js": "/request-simulator/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/request-simulator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.174e4a69.chunk.js.LICENSE.txt": "/request-simulator/static/js/2.174e4a69.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/request-simulator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c581923.js",
+    "static/js/2.174e4a69.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.af123320.chunk.js"
+  ]
+}
